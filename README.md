@@ -1,5 +1,7 @@
 # OverdueWeevil2 Sohbet Sitesi Yardım
 Merhaba, burda size yardımcı olmak için birkaç çözümler sunduk. Email ile mesaj yollarken Kişisel Bilgilerinizi paylaşmayın.
+### Hesabım yok. Hesabımı oluşturabilir miyim?
+[İsteyen herkes hesab oluşturabilr, buraya tıklayarak hesabınızı oluşturalım!](SignUp.md#hesabınızı-oluşturun)
 ### Siteye giremiyorum. Ne yapmalıyım?
 Sadece gmail.com ile biten e-postayı kabul ediyoruz yada yönetici sizin hesabınızı devre dışı bırakmış olabilir. Eğer bir yanlışlık varsa bize [mail](mailto:61hasanabdullahuygun@gmail.com) ile mesaj yollayın.
 ### Google hesabı ile oturum açamıyorum.
