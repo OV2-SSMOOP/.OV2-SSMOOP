@@ -1,5 +1,5 @@
 # OverdueWeevil2 Sohbet Sitesi Yardım
-Merhaba, burda size yardımcı olmak için birkaç çözümler sunduk. Email ile mesaj yollarken Kişisel Bilgilerinizi paylaşmayın.
+Merhaba, burda size yardımcı olmak için birkaç çözümler sunduk. Email ile mesaj yollarken **asla** Kişisel Bilgilerinizi paylaşmayın.
 ### Hesabım yok. Hesabımı oluşturabilir miyim?
 [İsteyen herkes hesab oluşturabilr, buraya tıklayarak hesabınızı oluşturalım!](SignUp.md#hesabınızı-oluşturun)
 ### Siteye giremiyorum. Ne yapmalıyım?
