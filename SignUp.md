@@ -1,7 +1,10 @@
 # Hesabınızı oluşturun!
+Şunlarla hesap oluşturun:
 [E-Posta ile hesap oluşturun!](https://overdueweevil2.cloud.mattermost.com/signup_email)
 
 [Google Hesabı ile hesap oluşturun!](https://overdueweevil2.cloud.mattermost.com/oauth/google/signup)
+
+[Zaten hesabım var](https://overdueweevil2.cloud.mattermost.com/login)
 
 Hesap açarak şunları kabul etmiş olursunuz:
 
