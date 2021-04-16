@@ -1,5 +1,7 @@
 # OverdueWeevil2 Sohbet Sitesi Yardım
 Merhaba, burda size yardımcı olmak için birkaç çözümler sunduk. Email ile mesaj yollarken **asla** Kişisel Bilgilerinizi paylaşmayın.
+### Hesabı güvende tutmak için ne yapmalıyım?
+[Hesabı güvende tutma kılavuzu için tıklayın.](Hesap.md#hesab%C4%B1n%C4%B1z%C4%B1-g%C3%BCvende-tutma-k%C4%B1lavuzu)
 ### Hesabım yok. Hesabımı oluşturabilir miyim?
 [İsteyen herkes hesab oluşturabilir, buraya tıklayarak hesabınızı oluşturalım!](https://overdueweevil2.cloud.mattermost.com/signup_user_complete)
 ### Siteye giremiyorum. Ne yapmalıyım?
@@ -21,3 +23,7 @@ Discord sunucu reklamı, üçretsiz robux reklamı, oyun reklamı gibi Reklamlar
 Virüslü link / uygulama paylaşmak yasaktır.
 ### 6. Küfür etme
 Küfür etmek yasaktır.
+### 7. Spam yapma
+Çok hızlı mesaj göndermeyin, bu spamdır.
+### 8. Dolandırıcılık yapma
+Dolandırıcılık kötü birşeydir. Yapmayınız. [Hesabın güvende tutmak için buraya tıklayın](Hesap.md#hesab%C4%B1n%C4%B1z%C4%B1-g%C3%BCvende-tutma-k%C4%B1lavuzu)
