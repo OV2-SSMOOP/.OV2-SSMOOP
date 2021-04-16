@@ -27,3 +27,5 @@ Küfür etmek yasaktır.
 Çok hızlı mesaj göndermeyin, bu spamdır.
 ### 8. Dolandırıcılık yapma
 Dolandırıcılık kötü birşeydir. Yapmayınız. [Hesabın güvende tutmak için buraya tıklayın](Hesap.md#hesab%C4%B1n%C4%B1z%C4%B1-g%C3%BCvende-tutma-k%C4%B1lavuzu)
+### 9. Bot hesaplar kullanma
+Bot hesaplar yasaktır. Farkedilirse bot hesap sonsuza dek devre dışı bırakılır.
