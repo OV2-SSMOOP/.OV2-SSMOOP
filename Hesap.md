@@ -6,4 +6,6 @@ Birisi şifrenizi farkında olmadan bulmuş olabilir. Şifrenizi değiştirmeyi 
 ### Sohbet sitesini kullandıktan sonra çıkış yapın.
 Cihazınızın herkesin kullanabileceği için çıkış yapmayı unutmayın.
 ### AntiVirüsde tam tarama yapıp virüsleri silin.
-Bazı virüsler şifrenizi koplayabilirler. Bu yüzden AntiVirüsde tam tarama yapıp sistemi yeniden başlatın ve şifrenizi değiştirin.
+Bazı virüsler şifrenizi kopyalabilirler. Bu yüzden AntiVirüsde tam tarama yapıp sistemi yeniden başlatın ve şifrenizi değiştirin.
+### Güvenmediğiniz linki tıklamayın.
+Bazı linkler kötü amaçlı yazılımlar yükleyebilirler. Bu yüzden tıklamayın.
