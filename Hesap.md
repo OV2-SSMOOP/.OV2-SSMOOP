@@ -10,4 +10,4 @@ Bazı virüsler şifrenizi kopyalabilirler. Bu yüzden AntiVirüsde tam tarama y
 ### Güvenmediğiniz linki tıklamayın.
 Bazı linkler kötü amaçlı yazılımlar yükleyebilirler. Bu yüzden tıklamayın.
 ### Şifrenizi hiçbir yere girmeyin/göndermeyin
-Bir site, şifrenizi sorarsa **asla** girmeyin. Sadece **overdueweevil2.cloud.mattermost.com** üzerinden girin.
+Bir site, şifrenizi sorarsa **asla** girmeyin. Sadece [**overdueweevil2.cloud.mattermost.com**](//overdueweevil2.cloud.mattermost.com) üzerinden girin.
