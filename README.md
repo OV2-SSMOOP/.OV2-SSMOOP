@@ -11,6 +11,7 @@ Yönetici olan birisi size E-Posta ile Oturum açma yolu ile değiştirmiş olab
 ### Birisi kuralları uymadı. Ne yapmalıyım?
 Bize [doğrudan ileti](https://overdueweevil2.cloud.mattermost.com/main/messages/@overdueweevil2) veya [mail](mailto:61hasanabdullahuygun@gmail.com) gönderin ve ekran görüntüsünü atmayı unutmayın.
 # Topluluk Kuralları
+UYARI: Kayıt olan herkes topluluk kurallarını okumuş ve kabul etmiş **SAYILIR!**
 Buradaki tüm kuralları uymanız gerek. Farkedilirse ceza (Hesap şifresi değiştirme, Hesabı devre dışı bırakma vb.) işlenir.
 ### 1. Küfürlü / Kötü Ad ve Soyadı
 Google hesabınızla giriş yaparken Ad ve Soyadı kayıtlanır. Bu yüzden Küfürlü / Kötü Ad ve Soyadı kullanmayın.
