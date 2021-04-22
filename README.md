@@ -11,6 +11,7 @@ Yönetici olan birisi size E-Posta ile Oturum açma yolu ile değiştirmiş olab
 ### Birisi kuralları uymadı. Ne yapmalıyım?
 Bize [doğrudan ileti](https://overdueweevil2.cloud.mattermost.com/main/messages/@overdueweevil2) veya [mail](mailto:61hasanabdullahuygun@gmail.com) gönderin ve ekran görüntüsünü atmayı unutmayın.
 # Topluluk Kuralları
+Buradaki tüm kuralları uymanız gerek. Farkedilirse ceza (Hesap şifresi değiştirme, Hesabı devre dışı bırakma vb.) işlenir.
 ### 1. Küfürlü / Kötü Ad ve Soyadı
 Google hesabınızla giriş yaparken Ad ve Soyadı kayıtlanır. Bu yüzden Küfürlü / Kötü Ad ve Soyadı kullanmayın.
 ### 2. Küfürlü / Kötü E-Posta Adresi
@@ -18,7 +19,7 @@ Google hesabınızla giriş yaparken E-Posta kayıtlanır. Bu yüzden Küfürlü
 ### 3. Bize küfürlü mail gönderme
 Bize küfürlü mail göndermeyin. (Sansürlü Sansürsüz küfür farketmez)
 ### 4. Reklam yapma
-Discord sunucu reklamı, üçretsiz robux reklamı, oyun reklamı gibi Reklamlar yapmayın.
+Discord sunucu reklamı, ücretsiz robux reklamı, oyun reklamı gibi Reklamlar yapmayın.
 ### 5. Virüslü Link / Uygulama
 Virüslü link / uygulama paylaşmak yasaktır.
 ### 6. Küfür etme
