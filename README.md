@@ -14,6 +14,8 @@ Bize [doğrudan ileti](https://overdueweevil2.cloud.mattermost.com/main/messages
 UYARI: Kayıt olan herkes topluluk kurallarını okumuş ve kabul etmiş **SAYILIR!**
 
 Buradaki tüm kuralları uymanız gerek. Farkedilirse ceza (Hesap şifresi değiştirme, Hesabı devre dışı bırakma vb.) işlenir.
+
+UYARI: Sakın Kuralları çiğnemeyin yoksa hesabınızın şifresi değiştirilebilir (ve herkesle paylaşılabilir).
 ### 1. Küfürlü / Kötü Ad ve Soyadı
 Google hesabınızla giriş yaparken Ad ve Soyadı kayıtlanır. Bu yüzden Küfürlü / Kötü Ad ve Soyadı kullanmayın.
 ### 2. Küfürlü / Kötü E-Posta Adresi
