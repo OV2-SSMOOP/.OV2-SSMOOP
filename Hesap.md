@@ -1,6 +1,6 @@
 # Hesabınızı güvende tutma kılavuzu
 ### Hesabın şifrenizi / E-Postasını **asla** söylemeyin
-E-Postanızı / Şifrenizi paylaşmayın. Çünkü hesabınız hacklenebilir.
+E-Postanızı / Şifrenizi (Yönetici dahil) **hiçkimse**yle paylaşmayın. Çünkü hesabınız çalınır.
 ### Şifrenizi sık sık değiştirin.
 Birisi şifrenizi farkında olmadan bulmuş olabilir. Şifrenizi değiştirmeyi unutmayın (Eğer hesabınız hacklendiyse bize [mail](mailto:61hasanabdullahuygun@gmail.com) gönderin.)
 ### Sohbet sitesini kullandıktan sonra çıkış yapın.
@@ -10,4 +10,4 @@ Bazı virüsler şifrenizi kopyalabilirler. Bu yüzden AntiVirüsde tam tarama y
 ### Güvenmediğiniz linki tıklamayın.
 Bazı linkler kötü amaçlı yazılımlar yükleyebilirler. Bu yüzden tıklamayın.
 ### Şifrenizi hiçbir yere girmeyin/göndermeyin
-Bir site, şifrenizi sorarsa **asla** girmeyin. Sadece [**overdueweevil2.cloud.mattermost.com**](//overdueweevil2.cloud.mattermost.com) üzerinden girin.
+Bir site, şifrenizi sorarsa **asla** girmeyin. Sadece [**overdueweevil2.cloud.mattermost.com/login**](//overdueweevil2.cloud.mattermost.com/login) üzerinden girin.
