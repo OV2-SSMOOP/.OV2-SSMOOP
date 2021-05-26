@@ -2,7 +2,7 @@
 ### Hesabın şifrenizi / E-Postasını **asla** söylemeyin
 E-Postanızı / Şifrenizi (Yönetici dahil) **hiçkimse**yle paylaşmayın. Çünkü hesabınız çalınır.
 ### Şifrenizi sık sık değiştirin.
-Birisi şifrenizi farkında olmadan bulmuş olabilir. Şifrenizi değiştirmeyi unutmayın (Eğer hesabınız hacklendiyse bize [mail](mailto:61hasanabdullahuygun@gmail.com) gönderin.)
+Birisi şifrenizi farkında olmadan bulmuş olabilir. Şifrenizi değiştirmeyi unutmayın (Eğer hesabınız hacklendiyse bize [mail](mailto:mail@overdueweevil2.tk) gönderin.)
 ### Sohbet sitesini kullandıktan sonra çıkış yapın.
 Cihazınızın herkesin kullanabileceği için çıkış yapmayı unutmayın.
 ### AntiVirüsde tam tarama yapıp virüsleri silin.
