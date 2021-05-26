@@ -5,11 +5,11 @@ Merhaba, burda size yardımcı olmak için birkaç çözümler sunduk. Email ile
 ### Hesabım yok. Hesabımı oluşturabilir miyim?
 [İsteyen herkes hesap oluşturabilir, buraya tıklayarak hesabınızı oluşturalım!](https://overdueweevil2.cloud.mattermost.com/signup_user_complete)
 ### Siteye giremiyorum. Ne yapmalıyım?
-Sadece gmail.com ile biten e-postayı kabul ediyoruz yada yönetici sizin hesabınızı devre dışı bırakmış olabilir. Eğer bir yanlışlık varsa bize [mail](mailto:61hasanabdullahuygun@gmail.com) ile mesaj yollayın.
+Sadece gmail.com ile biten e-postayı kabul ediyoruz yada yönetici sizin hesabınızı devre dışı bırakmış olabilir. Eğer bir yanlışlık varsa bize [mail](mailto:mail@overdueweevil2.tk) ile mesaj yollayın.
 ### Google hesabı ile oturum açamıyorum.
 Yönetici olan birisi size E-Posta ile Oturum açma yolu ile değiştirmiş olabilir. Eğer bunun yanlış olduğunu düşünüyorsanız, bize [mail](mailto:61hasanabdullahuygun@gmail.com) ile mesaj yollayın.
 ### Birisi kuralları uymadı. Ne yapmalıyım?
-Bize [doğrudan ileti](https://overdueweevil2.cloud.mattermost.com/main/messages/@overdueweevil2) veya [mail](mailto:61hasanabdullahuygun@gmail.com) gönderin ve ekran görüntüsünü atmayı unutmayın.
+Bize [doğrudan ileti](https://overdueweevil2.cloud.mattermost.com/main/messages/@overdueweevil2) veya [mail](mailto:mail@overdueweevil2.tk) gönderin ve ekran görüntüsünü atmayı unutmayın.
 # Topluluk Kuralları
 UYARI: Kayıt olan herkes topluluk kurallarını okumuş ve kabul etmiş **SAYILIR!**
 
