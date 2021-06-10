@@ -10,6 +10,10 @@ Merhaba, burda size yardımcı olmak için birkaç çözümler sunduk. Email ile
 3. Hesabınız yok mu? yazısının yanındaki Kaydol butonuna basın.
 
 4. Ekrandaki adımları uygulayın.
+### Mattermost uygulaması ile açabilir miyim?
+[Mattermost uygulamasını indir](//mattermost.com/download/#mattermostApps)
+
+[Mattermost uygulaması ile aç](//overdueweevil2.cloud.mattermost.com/landing#/?redirect_uri=mattermost://overdueweevil2.cloud.mattermost.com)
 ### Hesabı güvende tutmak için ne yapmalıyım?
 [Hesabı güvende tutma kılavuzu için tıklayın.](Hesap.md#hesab%C4%B1n%C4%B1z%C4%B1-g%C3%BCvende-tutma-k%C4%B1lavuzu)
 ### Hesabım yok. Hesabımı oluşturabilir miyim?
