@@ -21,6 +21,8 @@ Yönetici olan birisi size E-Posta ile Oturum açma yolu ile değiştirmiş olab
 ### Birisi kuralları uymadı. Ne yapmalıyım?
 Bize [doğrudan ileti](https://overdueweevil2.cloud.mattermost.com/main/messages/@overdueweevil2) veya [mail](mailto:mail@overdueweevil2.tk) gönderin ve ekran görüntüsünü atmayı unutmayın.
 # Topluluk Kuralları
+ÖNEMLİ: Topluluk Kurallarını uymak istemiyor musunuz? [Önce bunu oku!](Topluluk.md)
+
 UYARI: Kayıt olan herkes topluluk kurallarını okumuş ve kabul etmiş **SAYILIR!**
 
 Buradaki tüm kuralları uymanız gerek. Farkedilirse ceza (Hesap şifresi değiştirme, Hesabı devre dışı bırakma vb.) işlenir.
