@@ -7,7 +7,7 @@ Merhaba, burda size yardımcı olmak için birkaç çözümler sunduk. Email ile
 
 2. OverdueWeevil2 ID yazısına basın.
 
-3. Hesabınız yok mu? yazısının yanındaki Kaydol butonuna basın.
+3. Hesabınız yok mu? yazısının yanındaki Kaydol butonuna basın. (yada aşağıdaki şeçenekleri kullanın.)
 
 4. Ekrandaki adımları uygulayın.
 ### Mattermost uygulaması ile açabilir miyim?
