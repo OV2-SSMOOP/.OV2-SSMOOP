@@ -11,3 +11,5 @@ Bazı virüsler şifrenizi kopyalabilirler. Bu yüzden AntiVirüsde tam tarama y
 Bazı linkler kötü amaçlı yazılımlar yükleyebilirler. Bu yüzden tıklamayın.
 ### Şifrenizi hiçbir yere girmeyin/göndermeyin
 Bir site, şifrenizi sorarsa **asla** girmeyin. Sadece [**overdueweevil2.cloud.mattermost.com/login**](//overdueweevil2.cloud.mattermost.com/login) ve OverdueWeevil2 ID üzerinden girin.
+### Kötü amaçlı yazılımları indirmeyin.
+Kötü amaçlı yazılımlar şifreleri kopyalayabilir, hatta [KeyLogger](//tr.wikipedia.org/wiki/Klavye_dinleme_sistemi) denilen yazılımlar bastığınız tuşları kaydeder. Lütfen tanımadığınız yazılımları silin.
