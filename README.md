@@ -33,9 +33,9 @@ Buradaki tüm kuralları uymanız gerek. Farkedilirse ceza (Hesap şifresi deği
 
 UYARI: Sakın Kuralları çiğnemeyin yoksa hesabınızın şifresi değiştirilebilir (ve herkesle paylaşılabilir).
 ### 1. Küfürlü / Kötü Ad ve Soyadı
-Google hesabınızla giriş yaparken Ad ve Soyadı kayıtlanır. Bu yüzden Küfürlü / Kötü Ad ve Soyadı kullanmayın.
+Ad ve Soyadı görünebilir. Bu yüzden Küfürlü / Kötü Ad ve Soyadı kullanmayın.
 ### 2. Küfürlü / Kötü E-Posta Adresi
-Google hesabınızla giriş yaparken E-Posta kayıtlanır. Bu yüzden Küfürlü / Kötü E-Posta kullanmayın.
+Sistem yöneticileri, e-posta adresini görebilir. Bu yüzden Küfürlü / Kötü E-Posta kullanmayın.
 ### 3. Bize küfürlü mail gönderme
 Bize küfürlü mail göndermeyin. (Sansürlü Sansürsüz küfür farketmez)
 ### 4. Reklam yapma
